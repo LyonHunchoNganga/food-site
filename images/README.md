@@ -1,8 +1,7 @@
 # Flavor Fiesta  
 #### A food site where users can browse, share, and search for recipes from all over the world, April 2025  
 #### By **Lyon Nganga**
-
-[![GitHubRepo](https://github.com/LyonHunchoNganga/food-site/tree/main)](https://github.com/LyonHunchoNganga/food-site.git)
+[![GitHub Repo](https://github.com/LyonHunchoNganga/food-site/tree/main)](https://github.com/LyonHunchoNganga/food-site.git)
 ## Description  
 **Flavor Fiesta** is a vibrant and user-friendly food website designed for people who love discovering and sharing recipes. From traditional dishes to creative culinary experiments, users can explore global cuisines, contribute their own recipes, and search for meals based on ingredients, categories, or preferences.
 
